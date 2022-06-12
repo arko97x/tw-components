@@ -1,0 +1,23 @@
+{
+  "name": "tw-components",
+  "version": "1.0.0",
+  "description": "I would like this repository to be a collection of responsive Tailwind CSS components that one can easily use in their projects. I intend to use Tailwind CLI to build them out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arko97x/tw-components.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arko97x/tw-components/issues"
+  },
+  "homepage": "https://github.com/arko97x/tw-components#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.2"
+  }
+}
